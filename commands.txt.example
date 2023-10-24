@@ -1,0 +1,13 @@
+sudo apt update
+sudo apt upgradesudo apt install pip
+sudo apt install python3.10-venv
+sudo apt update
+sudo apt install snapd
+sudo snap install code --classic
+sudo apt update
+sudo snap install spotify
+sudo snap install discord
+sudo apt install nodejs 
+sudo add-apt-repository universe
+sudo apt install gnome-tweak-tool
+python3 --version
